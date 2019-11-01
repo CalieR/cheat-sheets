@@ -12,3 +12,4 @@ Useful cheat sheets I've collected so far....
 - SOLID principles (courtesy of Monterail)
 - VSCode keyboard shortcuts (offical guide)
 - JavaScript (WebsiteSetup): more of a glossary
+- callbacks.js: just some code to display how cb's work
